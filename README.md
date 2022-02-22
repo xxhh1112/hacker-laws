@@ -1,7 +1,7 @@
 # 💻📖 hacker-laws
 
 
-Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve  kalıplar.
+Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve kalıplar.
 
 Orjinal: [🇺🇸](https://github.com/dwmkerr/hacker-laws)
 
