@@ -1,6 +1,6 @@
 # 💻📖 hacker-laws
 
-Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler.
+Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve  kalıplar.
 
 [Çeviriler](#çeviriler): [🇮🇩](https://github.com/dwmkerr/hacker-laws/blob/master//translations/pt-BR.md) [🇧🇷](https://github.com/dwmkerr/hacker-laws/blob/master/translations/pt-BR.md) [🇨🇳](https://github.com/nusr/hacker-laws-zh) [🇩🇪](https://github.com/dwmkerr/hacker-laws/blob/master/translations/de.md) [🇫🇷](https://github.com/dwmkerr/hacker-laws/blob/master/translations/fr.md) [🇬🇷](https://github.com/dwmkerr/hacker-laws/blob/master/translations/el.md) [🇮🇹](https://github.com/csparpa/hacker-laws-it) [🇱🇻](https://github.com/dwmkerr/hacker-laws/blob/master/translations/lv.md) [🇰🇷](https://github.com/codeanddonuts/hacker-laws-kr) [🇷🇺](https://github.com/solarrust/hacker-laws) [🇪🇸](https://github.com/dwmkerr/hacker-laws/blob/master/translations/es-ES.md) [🇹🇷](https://github.com/umutphp/hacker-laws-tr) [🇯🇵](https://github.com/dwmkerr/hacker-laws/blob/master/translations/jp.md)
 
