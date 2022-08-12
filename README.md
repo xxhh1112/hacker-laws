@@ -20,6 +20,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [Kırık Camlar Teorisi](#kırık-camlar-teorisi)
     * [Brooks Yasası](#brooks-yasası)
     * [CAP Teorisi (Brewer Teorisi)](#cap-teorisi-brewer-teorisi)
+    * [Clarke'ın Üç Yasasu](#clarkeın-üç-yasası)
     * [Conway Yasası](#conway-yasası)
     * [Cunningham Yasası](#cunningham-yasası)
     * [Dunbar Sayısı](#dunbar-sayısı)
@@ -187,6 +188,18 @@ Ek kaynaklar:
 - [ACID](#TODO)
 - [Dağıtık Sistemlerin Yanılgıları](#da%C4%9F%C4%B1t%C4%B1k-sistemlerin-yan%C4%B1lg%C4%B1lar%C4%B1)
 - [PACELC](#TODO)
+
+### Clarke'ın Üç Yasası
+
+[Clarke's three laws on Wikipedia](https://tr.wikipedia.org/wiki/Clarke_kanunlar%C4%B1)
+
+İngiliz bilimkurgu yazarı Arthur C. Clarke, Clarke'ın üç yasası olarak bilinen üç özlü söz formüle etti. Üçüncü yasa, bunlardan en çok bilineni ve en çok alıntı yapılanıdır.
+
+Bu üç yasa aşağıdaki gibi özetlenebilir:
+
+- Tanınmış fakat yaşlı bir bilim adamı bir şeyin mümkün olduğunu söylüyorsa, neredeyse kesinlikle haklıdır. Eğer aynı kişi bir şeyin imkansız olduğunu söylediğinde ise, büyük olasılıkla yanılıyordur.
+- Mümkün olanın sınırlarını keşfetmenin tek yolu, onları biraz aşıp imkansıza doğru ilerlemektir.
+- Yeterince gelişmiş herhangi bir teknoloji sihirden ayırt edilemez.
 
 ### Conway Yasası
 
