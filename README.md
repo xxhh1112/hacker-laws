@@ -20,7 +20,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [Kırık Camlar Teorisi](#kırık-camlar-teorisi)
     * [Brooks Yasası](#brooks-yasası)
     * [CAP Teorisi (Brewer Teorisi)](#cap-teorisi-brewer-teorisi)
-    * [Clarke'ın Üç Yasasu](#clarkeın-üç-yasası)
+    * [Clarke'ın Üç Yasası](#clarkeın-üç-yasası)
     * [Conway Yasası](#conway-yasası)
     * [Cunningham Yasası](#cunningham-yasası)
     * [Dunbar Sayısı](#dunbar-sayısı)
