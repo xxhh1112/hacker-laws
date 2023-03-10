@@ -73,6 +73,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [KISS Prensibi](#kiss-prensibi)
     * [YAGNI](#yagni)
     * [Dağıtık Sistemlerin Yanılgıları](#dağıtık-sistemlerin-yanılgıları)
+    * [Kullanıcıyı Şaşırtmama Prensibi](#kullanıcıyı-şaşırtmama-prensibi)
 * [Ek Kaynaklar](#ek-kaynaklar)
 * [Çevrimiçi Kaynaklar](#çevrimiçi-kaynaklar)
 * [Podcast](#podcast)
@@ -991,6 +992,22 @@ Ek kaynaklar;
 
 - [Foraging for the Fallacies of Distributed Computing (Part 1) - Vaidehi Joshi on Medium](https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-1-1b35c3b85b53)
 - [Deutsch's Fallacies, 10 Years After](http://java.sys-con.com/node/38665)
+
+### Kullanıcıyı Şaşırtmama Prensibi
+
+[Wikipedia'da Kullanıcıyı Şaşırtmama Prensibi](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
+
+> İnsanlar sistemin bir parçasıdır. Tasarım, kullanıcının deneyimine, beklentilerine ve zihinsel modellerine uygun olmalıdır.
+>
+> Frans Kaashoek
+
+Bu ilke, sistemlerin ve arayüzlerin, özelliklerin ve işlevlerin kolayca keşfedilebileceği ve kullanıcıların beklentileriyle eşleşeceği şekilde tasarlanmasını önermektedir. Kullanıcıları 'şaşırtacak' özellikleri sunmamaya dikkat edilmeli, onun yerine mevcut kalıplara ve uygulamalara uygun, sezgisel olarak muhakeme edilebilecek özellikler sunulmaya çalışmalıdır.
+
+Mobil uygulamalarda kullanıcı arayüzlerinde, içeriği yenilemek için 'aşağı çekme' hareketi güzel bir örnektir. Başka bir örnek ise, parametrelerin isimlendirilmesi, kullanılabilir olması gibi birçok standardın bulunduğu komut satırı araçları olabilir.
+
+Ek kaynaklar:
+
+- [Konfigürasyon Üzerine Sözleşme](#todo)
 
 ## Ek Kaynaklar
 
